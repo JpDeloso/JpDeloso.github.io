@@ -1,15 +1,19 @@
+/* bg image */
 body {
   background-image: url("vintage.jpg");
   background-size: 1920px;
 }
 
+/* font style for header */
 .header {font-family: Courier; }
 
-
+/* centered and the font style for h1 and h3 */
 h1,h3 {
 	  text-align: center;
     font-family: Courier;
 }
+
+/* size and position of the picture */
 #picture {
 	 display: block;
   margin-left: auto;
