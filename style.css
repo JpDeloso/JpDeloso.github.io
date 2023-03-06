@@ -1,15 +1,20 @@
+
+/* Adds bg image */
 body {
   background-image: url("vintage.jpg");
   background-size: 1920px;
 }
 
+/* changes the font family of the header class*/
 .header {font-family: Courier; }
 
-
+/* alligns the text and changes the font style of h1 and h3 */
 h1,h3 {
 	  text-align: center;
     font-family: Courier;
 }
+
+/* adjusts the size and position of the picture */
 #picture {
 	 display: block;
   margin-left: auto;
